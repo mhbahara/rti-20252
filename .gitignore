@@ -1,13 +1,3 @@
-# === Private/Manuscript Content ===
-# Konten buku lengkap (naskah bernilai komersial)
-book/
-assets/
-
-# Internal project management
-MASTER-ANCHOR.md
-REFERENCES.md
-PROJECT-TRACKER.md
-
 # IDE / OS
 *.code-workspace
 .vscode/
