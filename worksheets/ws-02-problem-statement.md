@@ -102,12 +102,12 @@ Problem Statement (1 paragraf):
 
 Pilih satu topik di bidang TI yang diminati. Transformasikan melalui 5 tahap Problem Formation Model.
 
-**Topik awal:** ________________________________________
+**Topik awal:** Optimasi Akurasi Estimasi Waktu (ETA) pada Aplikasi Mobile.
 
 | Tahap | Hasil |
 |-------|-------|
 | Reality | *Contoh: Aplikasi e-commerce sering ditinggalkan saat checkout* |
-| Observed Issue (Symptom) | *Contoh: Bounce rate checkout 68%* |
+| Observed Issue (Symptom) | Masyarakat sering merasa estimasi waktu di aplikasi ojek online tidak akurat saat macet. |
 | Diagnosed Problem (Root Cause) | |
 | Researchable Problem | |
 | Measurable Variable | |
